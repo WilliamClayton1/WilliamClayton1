@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Clayton</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer, always striving to learn more.</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
